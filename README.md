@@ -158,7 +158,7 @@ The table below summarizes the optimization results for various seat components,
 
 ### Conclusion
 
-The optimization methods successfully achieved **up to 94.11% weight reduction** in the seat leg using **Fusion 360’s generative design**, confirming that the project met its objective of developing a **lightweight, structurally efficient, and manufacturable aircraft seat design**.
+The optimization methods successfully achieved **up to 9.41% weight reduction** in the seat leg using **Fusion 360’s generative design**, confirming that the project met its objective of developing a **lightweight, structurally efficient, and manufacturable aircraft seat design**.
 
 ## Paper Reference
 
