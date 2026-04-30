@@ -2,6 +2,8 @@
 
 This project explores the redesign of a commercial aircraft seat using AI-assisted generative design and additive manufacturing. The goal was to reduce weight while maintaining strength and passenger safety, ultimately leading to improved fuel efficiency and sustainability in aviation.
 
+Tools used : SolidWorks, ANSYS Workbench, Ultimaker Cura, Autodesk Fusion 360
+
 ## Overview
 
 Traditional aircraft seats are often over-designed to ensure safety, leading to unnecessary material usage and increased fuel consumption. This project uses modern engineering tools and generative design techniques to create a structurally sound seat optimized for 3D printing, making it lightweight and manufacturing-efficient.
