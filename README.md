@@ -95,7 +95,7 @@ The same is carried out for the cushion and arm rest.
 
 ---
 ### Figure 4 : Von Mies Stress Distribution
-Stress analysis was perfomed in Ansys R19.2 for various lattice structures, to idenitify the strongest lattice. 
+Stress analysis was perfomed in Ansys R19.2 for 5 lattice structures, to idenitify the strongest lattice. 
 <img width="1084" height="609" alt="image" src="https://github.com/user-attachments/assets/8530f268-2d52-406c-8931-b0b3ecc87c82" />
 Results indicate Honeycomb is the strongest structure.
 
